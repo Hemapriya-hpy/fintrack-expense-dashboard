@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "amount": 150,
+    "category": "Food",
+    "type": "expense",
+    "date": "2026-10-01"
+  },
+  {
+    "id": 2,
+    "amount": 80,
+    "category": "Transport",
+    "type": "expense",
+    "date": "2026-10-02"
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "category": "Entertainment",
+    "type": "expense",
+    "date": "2026-10-03"
+  },
+  {
+    "id": 4,
+    "amount": 120,
+    "category": "Utilities",
+    "type": "expense",
+    "date": "2026-10-04"
+  },
+  {
+    "id": 5,
+    "amount": 65,
+    "category": "Health",
+    "type": "expense",
+    "date": "2026-10-05"
+  },
+  {
+    "id": 1791534605407,
+    "amount": 95.5,
+    "category": "Groceries",
+    "type": "expense",
+    "date": "2026-10-09"
+  }
+]
